@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 112" role="img" aria-labelledby="title">
+<title id="title">Murojaat EDU — flying envelope and solution star</title>
+<defs>
+ <linearGradient id="mail" x2=".8" y2="1"><stop stop-color="#38c7ff"/><stop offset=".5" stop-color="#078bd9"/><stop offset="1" stop-color="#0753a7"/></linearGradient>
+ <linearGradient id="flap" x2="0" y2="1"><stop stop-color="#63daff"/><stop offset="1" stop-color="#168de0"/></linearGradient>
+ <linearGradient id="wind"><stop stop-color="#169ae7" stop-opacity=".15"/><stop offset=".45" stop-color="#169ae7"/><stop offset="1" stop-color="#16cbb0"/></linearGradient>
+ <linearGradient id="star" x2="1" y2="1"><stop stop-color="#a2ffdf"/><stop offset="1" stop-color="#00bfa1"/></linearGradient>
+</defs>
+<style>
+ .flight{transform-origin:72px 56px;animation:arrival 5s cubic-bezier(.22,.8,.25,1) infinite}
+ .trail{stroke-dasharray:110 22;animation:wind 1.65s linear infinite,trail-fade 5s ease-in-out infinite}
+ .trail2{animation-delay:-.65s,0s}
+ .spark{transform-origin:111px 18px;animation:solved 5s ease-in-out infinite}
+ @keyframes arrival{0%{transform:translate(-14px,7px) rotate(-11deg);opacity:.65}26%{transform:translate(3px,-2px) rotate(-5deg);opacity:1}38%,85%{transform:translate(0,0) rotate(-6deg);opacity:1}100%{transform:translate(-14px,7px) rotate(-11deg);opacity:.65}}
+ @keyframes wind{to{stroke-dashoffset:-132}}
+ @keyframes trail-fade{0%,22%{opacity:1}42%,85%{opacity:.35}100%{opacity:1}}
+ @keyframes solved{0%,19%{opacity:0;transform:translate(-3px,5px) scale(.3)}32%{opacity:1;transform:translate(0,-2px) scale(1.18)}43%{opacity:1;transform:translate(0,0) scale(1)}60%{opacity:1;transform:translate(2px,-4px) rotate(9deg) scale(1.04)}78%,88%{opacity:1;transform:translate(0,0) scale(1)}100%{opacity:0;transform:translate(-3px,5px) scale(.3)}}
+ @media(prefers-reduced-motion:reduce){.flight,.trail,.spark{animation:none}.spark{opacity:1}}
+</style>
+<g fill="none" stroke="url(#wind)" stroke-linecap="round">
+ <path class="trail" d="M6 60 Q16 42 39 41" stroke-width="5"/>
+ <path class="trail trail2" d="M4 80 Q9 61 34 52" stroke-width="6"/>
+ <path class="trail" d="M16 82 Q7 103 58 96 Q84 92 102 78" stroke-width="6"/>
+ <path class="trail trail2" d="M29 103 Q62 108 90 93" stroke-width="3"/>
+</g>
+<g class="flight">
+ <rect x="35" y="32" width="76" height="51" rx="9" fill="#064c94"/>
+ <path d="M35 39 L73 62 L111 39 V74 Q111 83 102 83 H44 Q35 83 35 74Z" fill="url(#mail)"/>
+ <path d="M36 77 L63 57 M110 77 L83 57" stroke="#075eb1" stroke-width="1.5" opacity=".65"/>
+ <path d="M35 34 Q35 30 44 30 H102 Q111 30 111 34 L79 56 Q73 60 67 56Z" fill="url(#flap)" stroke="#8be2ff" stroke-width=".8"/>
+</g>
+<g class="spark"><path d="M111 4 Q114 15 125 18 Q114 21 111 32 Q108 21 97 18 Q108 15 111 4Z" fill="url(#star)"/><circle cx="94" cy="8" r="2" fill="#67e8c9"/></g>
+</svg>
