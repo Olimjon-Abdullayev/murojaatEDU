@@ -1,0 +1,15 @@
+{
+  "name": "murojaat-edu",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Independent education appeals hackathon demo",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js",
+    "test": "node --test",
+    "check": "node --check server.js && node --check public/app.js"
+  }
+}
