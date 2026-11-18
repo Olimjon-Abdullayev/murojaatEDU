@@ -1,0 +1,98 @@
+[
+  {
+    "id": "L1",
+    "title": "Ta’lim to‘g‘risida — O‘RQ-637",
+    "url": "https://lex.uz/docs/-5013007",
+    "kind": "Qonun",
+    "tags": "ta'lim talaba huquq o'qish education rights образование право",
+    "summary": "2020-yil 23-sentabrdagi Ta’lim to‘g‘risida Qonuni ta’lim sohasidagi munosabatlarni tartibga soluvchi asosiy manbadir. Aniq huquq va shartlarni amaldagi matndan tekshirish kerak."
+  },
+  {
+    "id": "L2",
+    "title": "Jismoniy va yuridik shaxslarning murojaatlari — O‘RQ-445",
+    "url": "https://lex.uz/docs/-3336169",
+    "kind": "Qonun",
+    "tags": "murojaat ariza shikoyat javob vazirlik appeal complaint request жалоба обращение",
+    "summary": "Davlat organlari va tashkilotlari murojaatlarni to‘liq, xolisona va o‘z vaqtida ko‘rib chiqish choralarini ko‘rishi lozim. Murojaat bilan bog‘liq qonuniy huquqlar va tartibni rasmiy matndan tekshirish kerak."
+  },
+  {
+    "id": "S1",
+    "title": "Diplom dublikatini olish — xizmat №642",
+    "url": "https://my.gov.uz/uz/service/642",
+    "kind": "Xizmat",
+    "tags": "diplom dublikat yo'qolgan hujjat duplicate diploma диплом дубликат",
+    "summary": "Yagona portalda diplom dublikatini olish xizmati ko‘rsatilgan. Xizmat asosi sifatida 2022-yil 21-iyuldagi 395-son Vazirlar Mahkamasi qarori keltirilgan. Amaldagi to‘lov, muddat va hujjatlarni xizmat sahifasidan tekshiring."
+  },
+  {
+    "id": "S2",
+    "title": "Hisoblangan stipendiyalar haqida ma’lumot — xizmat №1347",
+    "url": "https://my.gov.uz/uz/spheres/8/",
+    "kind": "Xizmat",
+    "tags": "stipendiya stipendiyam to'lov tushmadi scholarship payment стипендия",
+    "summary": "Portalning Ta’lim bo‘limida davlat oliy ta’lim muassasalari talabalari uchun hisoblangan stipendiyalari haqida ma’lumot olish xizmati №1347 mavjud. Bu hisoblangan stipendiya haqida xizmat; bankka haqiqiy pul tushganini yoki sababini mustaqil tasdiqlamaydi."
+  },
+  {
+    "id": "S3",
+    "title": "O‘qishni ko‘chirish va qayta tiklash — xizmat №843",
+    "url": "https://my.gov.uz/uz/spheres/8/",
+    "kind": "Xizmat",
+    "tags": "ko'chirish ko'chirmoq transfer qayta tiklash перевестись перевод восстановление",
+    "summary": "Portalning Ta’lim bo‘limida oliy ta’lim muassasalarida o‘qishni ko‘chirish va qayta tiklash xizmati №843 mavjud. Qabul davri, moslik mezoni va hujjatlar holatga qarab tekshirilishi kerak."
+  },
+  {
+    "id": "S4",
+    "title": "O‘qish joyidan ma’lumotnoma va transkript — №323, №851",
+    "url": "https://my.gov.uz/uz/spheres/8/",
+    "kind": "Xizmat",
+    "tags": "ma'lumotnoma transkript transcript certificate справка транскрипт",
+    "summary": "Portalning Ta’lim bo‘limida oliy ta’lim o‘qish joyidan ma’lumotnoma №323 va akademik ma’lumotnoma (transkript) №851 xizmatlari keltirilgan."
+  },
+  {
+    "id": "S5",
+    "title": "Oliy ta’lim diplom ma’lumotlarini tahrirlash — №742",
+    "url": "https://my.gov.uz/uz/service/742",
+    "kind": "Xizmat",
+    "tags": "diplom xato tahrir correction диплом ошибка",
+    "summary": "Portalda oliy ta’lim olganlik haqidagi diplom ma’lumotlarini qo‘shish yoki tahrirlash uchun ariza yuborish xizmati mavjud."
+  },
+  {
+    "id": "S6",
+    "title": "Talabalar turar joyi — xizmat №870",
+    "url": "https://my.gov.uz/uz/spheres/8",
+    "kind": "Xizmat",
+    "tags": "yotoqxona turar joy hostel dormitory общежитие",
+    "summary": "Portalning Ta’lim bo‘limida talabalar turar joyiga joylashtirish xizmati №870 va navbatni tekshirish xizmati №874 ko‘rsatilgan. Joy mavjudligi va imtiyozlar ushbu demo tomonidan tasdiqlanmaydi."
+  },
+  {
+    "id": "S7",
+    "title": "To‘lov-kontrakt shartnomasi va ta’lim krediti",
+    "url": "https://my.gov.uz/uz/spheres/8/",
+    "kind": "Xizmat",
+    "tags": "kontrakt kredit contract tuition кредит контракт",
+    "summary": "Portalda davlat OTM talabalari uchun to‘lov-kontrakt shartnomasini olish №1323, shartnoma ma’lumotini olish №1342 va ta’lim krediti №677 xizmatlari keltirilgan. Kredit olish shartlari tegishli rasmiy xizmatda tekshiriladi."
+  },
+  {
+    "id": "S8",
+    "title": "Abituriyentni onlayn ro‘yxatdan o‘tkazish — №1075",
+    "url": "https://my.gov.uz/uz/spheres/8/",
+    "kind": "Xizmat",
+    "tags": "qabul abituriyent admission поступление регистрация",
+    "summary": "Portalning Ta’lim bo‘limida abituriyentni onlayn ro‘yxatdan o‘tkazish xizmati №1075 mavjud. Amaldagi qabul sanalari va talablar rasmiy manbalardan tekshirilishi kerak."
+  },
+  {
+    "id": "S9",
+    "title": "Talabalar uchun stipendiya va grantlar",
+    "url": "https://gov.uz/oz/edu/pages/talabalar-uchun-stipendiya-va-grantlar",
+    "kind": "Xizmat",
+    "tags": "prezident nomli grant grants stipendiya xorazmiy beruniy ulugbek scholarship",
+    "summary": "Vazirlik sahifasida Prezident va nomli davlat stipendiyalari haqida ma’lumot bor. Bakalavriat Prezident stipendiyasida oxirgi kurs va a’lo o‘zlashtirish kabi mezonlar mavjud. Al-Xorazmiy nomidagi alohida imkoniyatni OTM e’lonidan tekshirish kerak; ushbu manba bunday davlat stipendiyasini tasdiqlamaydi."
+  },
+  {
+    "id": "S10",
+    "title": "Davlat stipendiyalariga onlayn ariza",
+    "url": "https://my.gov.uz/uz/service/871",
+    "kind": "Xizmat",
+    "tags": "prezident grant nomli stipendiya ariza scholarship",
+    "summary": "Bakalavriat talabalari davlat stipendiyalariga ariza yuborish uchun rasmiy xizmatdan foydalanishlari mumkin. Joriy talablar va muddatlarni rasmiy sahifadan tekshiring."
+  }
+]
